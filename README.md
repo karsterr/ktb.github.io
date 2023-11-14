@@ -1,2 +1,3 @@
-# KARSTERR-Tech-Blog
-My blog site
+# KARSTERR Tech Blog
+
+Blog site that I share my knowlaga and experiences.
