@@ -1,3 +1,3 @@
 # KARSTERR Tech Blog
 
-Blog site that I share my knowlaga and experiences.
+PLANNED RELEASE - 01.01.2024
